@@ -30,7 +30,7 @@ export const themeOptions = {
         main: "#ffffff",
       },
       secondary: {
-        main: "#ffaa44",
+        main: "#4778bf",
       },
       background: {
         default: "#191A1B",
